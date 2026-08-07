@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "TrustLens AI",
+  "version": "1.0.0",
+  "description": "Real-time AI phishing detection and explainable trust scores.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open TrustLens AI"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
